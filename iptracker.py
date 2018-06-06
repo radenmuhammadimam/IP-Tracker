@@ -1,5 +1,3 @@
-#TrackOut is a simple IP Tracker using Python.
-
 import os
 import urllib2
 import json
